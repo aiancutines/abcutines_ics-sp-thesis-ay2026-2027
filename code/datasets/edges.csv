@@ -1,0 +1,6 @@
+From,To,Cost,Capacity
+CentralFarm_S,MainHub_W,1,50
+MainHub_W,RiceMarket_D,0,1000
+MainHub_W,CornMarket_D,0,1000
+CentralFarm_S,RiceMarket_D,2,1000
+CentralFarm_S,CornMarket_D,10,1000

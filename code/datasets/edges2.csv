@@ -1,0 +1,36 @@
+From,To,Cost,Capacity
+Zambales_S,Pampanga_S,525,400000
+Zambales_S,Zambales_D,20,99000000
+Tarlac_S,Pampanga_S,188.1,900000
+Tarlac_S,MetroDemand,393,1100000
+Tarlac_S,Tarlac_D,20,99000000
+Quirino_S,Nueva Ecija_S,620,300000
+Quirino_S,Quirino_D,20,99000000
+Pangasinan_S,Tarlac_S,213.6,900000
+Pangasinan_S,Bulacan_S,546,750000
+Pangasinan_S,Pangasinan_D,20,99000000
+Pampanga_S,MetroDemand,238.5,1800000
+Pampanga_S,Pampanga_D,20,99000000
+Nueva Vizcaya_S,Nueva Ecija_S,426,750000
+Nueva Vizcaya_S,Nueva Vizcaya_D,20,99000000
+Nueva Ecija_S,Bulacan_S,303,1100000
+Nueva Ecija_S,MetroDemand,528,1500000
+Nueva Ecija_S,Nueva Ecija_D,20,99000000
+La Union_S,Pangasinan_S,284.1,550000
+La Union_S,La Union_D,20,99000000
+Isabela_S,Nueva Vizcaya_S,459,750000
+Isabela_S,Nueva Ecija_S,777,450000
+Isabela_S,Isabela_D,20,99000000
+Ilocos Sur_S,La Union_S,298,450000
+Ilocos Sur_S,Ilocos Sur_D,20,99000000
+Ilocos Norte_S,Ilocos Sur_S,411,450000
+Ilocos Norte_S,Ilocos Norte_D,20,99000000
+Cagayan_S,Isabela_S,627,900000
+Cagayan_S,Aurora_S,591,450000
+Cagayan_S,Cagayan_D,20,99000000
+Bulacan_S,MetroDemand,124.2,2200000
+Bulacan_S,Bulacan_D,20,99000000
+Bataan_S,MetroDemand,486,900000
+Bataan_S,Bataan_D,20,99000000
+Aurora_S,Nueva Ecija_S,729,450000
+Aurora_S,Aurora_D,20,99000000
